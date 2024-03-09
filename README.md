@@ -42,7 +42,7 @@ def circulate():
 
 ## Output:
 
-[!output](code.jpg)
+![output](code.jpg)
 
 ## Result:
 
