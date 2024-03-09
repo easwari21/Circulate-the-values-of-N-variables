@@ -28,7 +28,7 @@ Run the program and check the output
 ```
 Program to circulate N values.
 Developed by : Easwari M
-Reference no : 212223240033
+Register no : 212223240033
 ```
 
 ```
@@ -42,7 +42,7 @@ def circulate():
 
 ## Output:
 
-[!circulatevalues](code.jpg)
+[!output](code.jpg)
 
 ## Result:
 
